@@ -1,0 +1,22 @@
+{
+  "name": "typescript-rxjs-webpack",
+  "description": "",
+  "version": "3.0.0",
+  "scripts": {
+    "start": "webpack --watch"
+  },
+  "dependencies": {
+    "@types/node": "^10.12.11",
+    "@types/rx": "^4.1.1",
+    "awesome-typescript-loader": "5.2.0",
+    "rxjs": "^6.3.3",
+    "source-map-loader": "0.2.3",
+    "ts-loader": "^4.5.0",
+    "tslint": "^5.11.0",
+    "tslint-loader": "3.6.0",
+    "typescript": "^3.2.1",
+    "webpack": "4.12.0",
+    "webpack-cli": "3.0.8",
+    "webpack-dev-server": "3.1.4"
+  }
+}
